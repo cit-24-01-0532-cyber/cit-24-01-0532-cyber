@@ -1,5 +1,5 @@
-# Hi there, I'm [ඔයාගේ නම මෙතනට දාන්න] 👋
-### 🛡️ Cyber Security Enthusiast | Ethical Hacker in Training | Tech Student
+# Hi there, I'm Isara Arjuna PEerera 👋
+###  ☁️ Cloud Enthusiast | 🛡️ Security Student | 🚀 Tech Explorer
 
 ---
 
@@ -8,22 +8,28 @@
 - 🌱 I’m currently learning **Network Security, Python for CyberSec, and Linux Administration**.
 - 👯 I’m looking to collaborate on **Open-source security tools**.
 - 💬 Ask me about **CTFs, Kali Linux, or basic networking**.
-- 📫 How to reach me: **[ඔයාගේ Email එක හෝ LinkedIn Link එක මෙතනට දාන්න]**
+- 📫 How to reach me: **[isaraperera0@gmial.com]**
 
 ---
 
 ## 🛠 Skills & Tools
 
-### 🛡️ Cyber Security
-- **Tools:** Nmap, Wireshark, Metasploit, Burp Suite, John the Ripper
-- **Operating Systems:** Kali Linux, Parrot OS, Windows
-- **Concepts:** Web Pentesting, Network Security, Digital Forensics
+### ☁️ Cloud Platforms & Services
+- **Platforms:** AWS (EC2, S3, IAM, Lambda), Microsoft Azure
+- **Tools:** Terraform (IaC), Docker, Kubernetes
+- **Security:** CloudTrail, GuardDuty, IAM Policy Hardening
 
+  
 ### 💻 Programming & Scripting
+
 - **Languages:** Python, Bash Scripting, HTML/CSS
 - **Tools:** Git, GitHub, VS Code
 
 ---
+
+## 🤝 Let's Connect
+[<img src="file:///C:/Users/M%20S%20I/Pictures/photo/WhatsApp%20Image%202025-12-29%20at%2009.42.16.jpeg" />](www.linkedin.com/in/isara-arjuna-perera-0b1004324)
+
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[ඔයාගේ_USERNAME_මෙතනට]&show_icons=true&theme=dark)
@@ -31,6 +37,4 @@
 
 ---
 
-## 🤝 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](ඔයාගේ_linkedin_link_එක)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](ඔයාගේ_twitter_link_එක)
+
