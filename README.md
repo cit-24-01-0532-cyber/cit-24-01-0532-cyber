@@ -32,9 +32,7 @@
 
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[ඔයාගේ_USERNAME_මෙතනට]&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[ඔයාගේ_USERNAME_මෙතනට]&layout=compact&theme=dark)
-
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cit-24-01-0532-cyber&show_icons=true&theme=dark)
 ---
 
 
