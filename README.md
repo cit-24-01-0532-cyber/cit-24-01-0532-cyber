@@ -1,4 +1,4 @@
-# Hi there, I'm Isara Arjuna PEerera 👋
+# Hi there, I'm Isara Arjuna Perera 👋
 ###  ☁️ Cloud Enthusiast | 🛡️ Security Student | 🚀 Tech Explorer
 
 ---
