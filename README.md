@@ -48,13 +48,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/>
 </p>
-
----
-
-### 🌌 Banner
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/95018659-19ec-4581-8178-5a21e646d616" width="100%" alt="Goku Banner">
-</p>
 ------
 ## 🤝 Let's Connect
 [<img src="file:///C:/Users/M%20S%20I/Pictures/photo/WhatsApp%20Image%202025-12-29%20at%2009.42.16.jpeg" />](www.linkedin.com/in/isara-arjuna-perera-0b1004324)
