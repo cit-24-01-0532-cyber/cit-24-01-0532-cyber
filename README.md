@@ -27,16 +27,32 @@
 ## 🛠 Skills & Tools
 
 ### ☁️ Cloud Platforms & Services
-- **Platforms:** AWS (EC2, S3, IAM, Lambda), Microsoft Azure
-- **Tools:** Terraform (IaC), Docker, Kubernetes
-- **Security:** CloudTrail, GuardDuty, IAM Policy Hardening
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="50" height="50"/>
+</p>
+### 🛡️ Security & Networking
 
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/kalilinux/kalilinux-icon.svg" alt="kali" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-official.svg" alt="cisco" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="nmap" width="50" height="50"/>
+</p>
   
 ### 💻 Programming & Scripting
 
-- **Languages:** Python, Bash Scripting, HTML/CSS
-- **Tools:** Git, GitHub, VS Code
-
+-<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/>
+</p>
 ---
 
 ## 🤝 Let's Connect
