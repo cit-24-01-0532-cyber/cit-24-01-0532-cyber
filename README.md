@@ -51,7 +51,7 @@
 
 ------
 ## 🤝 Let's Connect
-[<img src="file:///C:/Users/M%20S%20I/Pictures/photo/WhatsApp%20Image%202025-12-29%20at%2009.42.16.jpeg" />](www.linkedin.com/in/isara-arjuna-perera-0b1004324)
+(www.linkedin.com/in/isara-arjuna-perera-0b1004324)
 
 --------
 
