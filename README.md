@@ -1,6 +1,6 @@
 # Hi there, I'm Isara Arjuna Perera 👋
 ###  ☁️ Cloud Enthusiast | 🛡️ Security Student | 🚀 Tech Explorer
-<div align="right" style="position: absolute; top: 0; right: 0; width: 40px; height: 40px; overflow: hidden; border-radius: 40%; border: 3px solid white; z-index: 10;">
+
   <img width="720" height="1280" alt="Image" src="https://github.com/user-attachments/assets/67a0133b-4844-4fe4-84c7-9c35c0aea9e9">
 </div>
 ---
