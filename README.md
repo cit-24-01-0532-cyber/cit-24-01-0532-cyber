@@ -1,7 +1,7 @@
 # Hi there, I'm Isara Arjuna Perera 👋
 ###  ☁️ Cloud Enthusiast | 🛡️ Security Student | 🚀 Tech Explorer
 <div align="right" style="position: absolute; top: 0; right: 0; width: 150px; height: 150px; overflow: hidden; border-radius: 50%; border: 3px solid white; z-index: 10;">
-  <img src="file:///C:/Users/User/Downloads/WhatsApp%20Image%202026-06-19%20at%2022.37.43.jpeg" alt="Isara's Photo" width="100%" height="100%" style="object-fit: cover;">
+  <img width="720" height="1280" alt="Image" src="https://github.com/user-attachments/assets/67a0133b-4844-4fe4-84c7-9c35c0aea9e9">
 </div>
 ---
 
