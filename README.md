@@ -9,7 +9,9 @@
     </td>
   </tr>
 </table>
-
+<p align="center">
+  <img src="https://dribbble.com/shots/2103470-Black-Cat-gif" width="140" alt="Cute Grim Reaper">
+</p>
 ---
 
 ### 💫 About Me
