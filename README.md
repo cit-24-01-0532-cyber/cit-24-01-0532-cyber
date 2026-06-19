@@ -48,10 +48,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/>
 </p>
+
 ------
 ## 🤝 Let's Connect
 [<img src="file:///C:/Users/M%20S%20I/Pictures/photo/WhatsApp%20Image%202025-12-29%20at%2009.42.16.jpeg" />](www.linkedin.com/in/isara-arjuna-perera-0b1004324)
 
 --------
+
+
 ## 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cit-24-01-0532-cyber&show_icons=true&theme=dark)
