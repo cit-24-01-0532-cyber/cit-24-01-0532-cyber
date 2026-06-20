@@ -52,9 +52,6 @@
 </p>
 ### 📊 My GitHub Contributions
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cit-24-01-0532-cyber&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Isara's Contribution Graph" />
-</p>
 ------
 ## 🤝 Let's Connect
 (www.linkedin.com/in/isara-arjuna-perera-0b1004324)
@@ -64,3 +61,10 @@
 
 ## 📊 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cit-24-01-0532-cyber&show_icons=true&theme=dark)
+-------
+
+### 📊 My GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cit-24-01-0532-cyber&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Isara's Contribution Graph" />
+</p>
