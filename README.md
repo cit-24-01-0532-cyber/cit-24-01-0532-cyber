@@ -50,7 +50,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="50" height="50"/>
 </p>
+### 📊 My GitHub Contributions
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cit-24-01-0532-cyber&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Isara's Contribution Graph" />
+</p>
 ------
 ## 🤝 Let's Connect
 (www.linkedin.com/in/isara-arjuna-perera-0b1004324)
